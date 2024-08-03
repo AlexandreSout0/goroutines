@@ -1,0 +1,2 @@
+As goroutines permitem que você execute funções de maneira concorrente, sem precisar lidar com detalhes complexos de threads. Isso ajuda a criar programas mais eficientes e responsivos.
+Uma vez que uma goroutine é criada, ela executa de forma assíncrona e concorrentemente com o resto do código. Isso significa que a função principal e outras goroutines podem continuar a ser executadas enquanto a goroutine está em execução.
